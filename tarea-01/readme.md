@@ -12,8 +12,6 @@ A partir de esto, la investigación se centra en medir fisicamente los bolsillos
  La historia no se queda solo en los datos, sino que los traduce en experiencias visuales e interactivas que permiten al usuario comprobar por sí mismo estas diferencias. Además, hacia el final, el reportaje amplía su enfoque y conecta el problema con factores históricos y culturales, señalando que la moda femenina ha privilegiado la estética por sobre la funcionalidad, a diferencia de la masculina.
 
  El hallazgo principal es una diferencia significativa en los bolsillos femeninos son en promedio un **48% más cortos** y un **6,5% más estrechos** que los de los hombres. Además, atraves de graficos dinámicos, el usuario puede pobar si ciertos objetos caben o no en distintos tipos de bolsillos. Esta estrategia permite que el problema deje de ser abstracto y se vuelva inmediato y evidente.
-
- El hallazgo principal es una diferencia significativa en los bolsillos femeninos son en promedio un **48% más cortos** y un **6,5% más estrechos** que los de los hombres. Además, atraves de graficos dinámicos, el usuario puede pobar si ciertos objetos caben o no en distintos tipos de bolsillos. Esta estrategia permite que el problema deje de ser abstracto y se vuelva inmediato y evidente.
  
  ## Aspectos a destacar
  Me llamó la atención la capacidad de transformar un problema cotidiano en un ejemplo de problematica compleja. Destaco mucho el uso del scroll como eje estructurador del relato, haciendo que sea una experiencia progresiva ya que en cada sección se desbloquea nuevos graficos a medida que avanza. 
