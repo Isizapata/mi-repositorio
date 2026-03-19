@@ -4,11 +4,14 @@
 Women's Pockets are Inferior /
  https://pudding.cool/2018/08/pockets/
 
-
 ## Descripción de la historia 
 La webstory *"Women´s Pockets are Inferior"* analiza una problematica cotiada poco estudiada que muchas veces se percibe como anecdótica, pero que es investigada concretamente por los autores: la desigualdad en el diseño de los bolsillos de jeans para ropa masculina y ropa femenina.  El punto de partida es una percepción compartida: los bolsillos de la ropa de mujer suelen ser pequeños, poco profundos o incluso inexistentes.
 
 A partir de esto, la investigación se centra en medir fisicamente los bolsillos  de 80 pantalones de 20 marcas distintas para comprobar si realmente existe una desigualdad funcional.
+
+ La historia no se queda solo en los datos, sino que los traduce en experiencias visuales e interactivas que permiten al usuario comprobar por sí mismo estas diferencias. Además, hacia el final, el reportaje amplía su enfoque y conecta el problema con factores históricos y culturales, señalando que la moda femenina ha privilegiado la estética por sobre la funcionalidad, a diferencia de la masculina.
+
+ El hallazgo principal es una diferencia significativa en los bolsillos femeninos son en promedio un **48% más cortos** y un **6,5% más estrechos** que los de los hombres. Además, atraves de graficos dinámicos, el usuario puede pobar si ciertos objetos caben o no en distintos tipos de bolsillos. Esta estrategia permite que el problema deje de ser abstracto y se vuelva inmediato y evidente.
 
  El hallazgo principal es una diferencia significativa en los bolsillos femeninos son en promedio un **48% más cortos** y un **6,5% más estrechos** que los de los hombres. Además, atraves de graficos dinámicos, el usuario puede pobar si ciertos objetos caben o no en distintos tipos de bolsillos. Esta estrategia permite que el problema deje de ser abstracto y se vuelva inmediato y evidente.
  
