@@ -1,5 +1,5 @@
 # Tarea 3 Isidora Zapata
-Para comenzar cree la carpeta doc y realice los cambios en configuraciones. Con eso listo cree el index.html y comence a escribir. 
+Para comenzar cree la carpeta doc y realice los cambios en configuraciones. Con eso listo cree el index y comence a escribir. 
 
 En primera instancia se me olvido colocar el (<!DOCTYPE html> <html lang="es">), entonces solo usea el (<head>), el (<h1>) y el (<p>), entonces cuando lo cargue me faltaba un titulo dentro de la página. Entiendo que el codigo de doctype es para leer el idioma pero no estoy segura. 
 
