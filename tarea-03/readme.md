@@ -7,3 +7,5 @@ Cuando revise mis apuntes de clase entendí la diferencia entre el head y el hea
 
 Para finalizar agregue un footer con "Gracias por leer" y trate de colocarl el link con a pero tambien creo que lo hice mal porque se ve el link pero no me envia directo al sitio de la crónica en la entrega 3.
 
+**Link página web**: https://isizapata.github.io/mi-repositorio/
+
