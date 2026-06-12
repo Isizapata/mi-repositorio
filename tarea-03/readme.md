@@ -9,3 +9,6 @@ Para finalizar agregue un footer con "Gracias por leer" y trate de colocar el li
 
 **Link página web**: https://isizapata.github.io/mi-repositorio/
 
+**Actualización viernes en clase:** 
+
+Pude colocar un link de prueba a The Pudding y hice cambios en los codigos y ahora si se ve la visualización de mi crónica.
